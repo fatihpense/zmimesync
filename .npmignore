@@ -1,0 +1,7 @@
+typings
+yarn.lock
+.vscode
+src
+tsconfig.json
+mimesync-hash.json
+mimesync-settings.txt
